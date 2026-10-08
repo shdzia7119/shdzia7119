@@ -98,4 +98,8 @@ An end-to-end pipeline that trains a classifier and audits whether its predictio
 
 ---
 
-📫 Code for any of these projects is available on request.
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/shadi-ziaee-31a748408](https://www.linkedin.com/in/shadi-ziaee-31a748408)
+
+Code for any of these projects is available on request. Feel free to reach out on LinkedIn.
