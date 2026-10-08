@@ -32,17 +32,17 @@ An AI platform for sales workflows such as buying-signal detection and lead scor
 
 ## 🛠️ Skills
 
-**Languages:** C# · TypeScript · JavaScript · Swift · C · C++ · Python · Java · XML/XSD
+**Languages:** C# · TypeScript · JavaScript · Python · Swift · C · C++ · Java
 
-**.NET:** .NET / .NET Framework · ASP.NET Web Forms · ASP.NET MVC · WCF (SOAP & RESTful) · .NET MAUI · Windows Forms · Windows Workflow Foundation
+**Web:** Next.js · React · Node.js · PostgreSQL · Supabase · Stripe · Vercel
 
-**Web & Cloud:** Next.js · React Router · Node.js · PostgreSQL · Supabase · Neon · Stripe · Vercel · Cloudflare Workers · Railway
+**.NET:** ASP.NET MVC · WCF (SOAP & REST) · .NET MAUI · XML/XSD
 
-**AI & ML:** Claude API / LLM integration · prompt design · scikit-learn · pandas · NumPy
+**AI & ML:** Claude API / LLM integration · prompt engineering · scikit-learn · pandas · NumPy
 
-**Apple:** SwiftUI · SwiftData · MapKit · Swift Charts · Combine · MVVM
+**Apple:** SwiftUI · SwiftData · MapKit · MVVM
 
-**Tools & practices:** Git · GitHub Actions · Turborepo · pnpm · Vitest · JUnit · Visual Studio · Xcode · Linux · Scrum · UML
+**Tools:** Git · GitHub Actions · Claude Code · Cursor · Vitest · JUnit · Visual Studio · Xcode · Linux · Agile/Scrum
 
 ---
 
@@ -52,14 +52,14 @@ An AI platform for sales workflows such as buying-signal detection and lead scor
 
 ### 🟣 .NET Service-Oriented Applications
 A collection of distributed applications built on the Microsoft stack: reusable services, the clients that consume them, and full web and mobile front ends.
-- **Tech:** C#, .NET, WCF, ASP.NET Web Forms, ASP.NET MVC, .NET MAUI, Windows Forms, Windows Workflow Foundation, XML/XPath/XSD
+- **Tech:** C#, .NET, WCF, ASP.NET MVC, .NET MAUI, XML/XPath/XSD
 - **What I built:**
   - WCF services (SOAP and RESTful) for encryption/decryption, sorting, number-to-words conversion, word filtering, temperature conversion, inventory, and discounts, with "TryIt" pages for testing them
-  - An ASP.NET Web Forms site with sign-up/sign-in (forms authentication and cookies), role-based components, and a backend WCF service
+  - An ASP.NET site with sign-up/sign-in (forms authentication and cookies), role-based components, and a backend WCF service
   - An ASP.NET MVC client that consumes the encryption service over HTTP
   - A **.NET MAUI** cross-platform mobile app (Android/iOS) for encrypting and decrypting text through the service
   - An XML data service for a national-parks dataset with XSD validation and XPath keyword search
-  - A WCF chat client/service and a Windows Workflow Foundation activity library
+  - A WCF chat client and service
 
 ### 📱 Japan Travel Planner: iOS App *(partner project)*
 A SwiftUI app for planning trips to Japan: discover trending places on a map, save favorites, and organize day-by-day itineraries with notes.
