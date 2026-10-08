@@ -1,6 +1,6 @@
 # Hi, I'm Shadi 👋
 
-**Software Engineering senior** building across the stack, from .NET services and AI-powered web products to native iOS apps, Linux kernel modules, and compilers.
+**Software Engineering senior at Arizona State University** building across the stack, from .NET services and AI-powered web products to native iOS apps, Linux kernel modules, and compilers.
 
 - 🤖 Shipping AI-powered SaaS features in TypeScript with LLMs (Claude), on startup-sponsored projects
 - 🟣 **C# and .NET (main focus):** WCF and REST services, ASP.NET (Web Forms & MVC), and cross-platform mobile with .NET MAUI
