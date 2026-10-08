@@ -3,12 +3,12 @@
 **Software Engineering senior at Arizona State University** building across the stack, from .NET services and AI-powered web products to native iOS apps, Linux kernel modules, and compilers.
 
 - 🤖 Shipping AI-powered SaaS features in TypeScript with LLMs (Claude), on startup-sponsored projects
-- 🟣 **C# and .NET (main focus):** WCF and REST services, ASP.NET (Web Forms & MVC), and cross-platform mobile with .NET MAUI
+- 🟣 **C# and .NET:** WCF and REST services, ASP.NET MVC, and .NET MAUI
 - 🌐 Full-stack web development with Next.js, React, TypeScript, and JavaScript
 - 🐍 Python for data analysis, machine learning, and scripting
 - 📱 Native iOS development with Swift, SwiftUI, and SwiftData
 - ⚙️ Systems and language tooling in C and C++
-- 🔐 Interested in data privacy and fair, responsible machine learning
+- 🔐 Built ML fairness and data privacy evaluation pipelines in Python
 
 ---
 
