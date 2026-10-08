@@ -8,7 +8,7 @@
 - 🐍 Python for data analysis, machine learning, and scripting
 - 📱 Native iOS development with Swift, SwiftUI, and SwiftData
 - ⚙️ Systems and language tooling in C and C++
-- 🔐 Built ML fairness and data privacy evaluation pipelines in Python
+- 🔐 Built an ML fairness evaluation pipeline in Python
 
 ---
 
@@ -36,7 +36,7 @@ An AI platform for sales workflows such as buying-signal detection and lead scor
 
 **Web:** Next.js · React · Node.js · PostgreSQL · Supabase · Stripe · Vercel
 
-**.NET:** ASP.NET MVC · WCF (SOAP & REST) · .NET MAUI · XML/XSD
+**.NET:** ASP.NET MVC · WCF (SOAP & REST) · .NET MAUI
 
 **AI & ML:** Claude API / LLM integration · prompt engineering · scikit-learn · pandas · NumPy
 
