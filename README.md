@@ -42,7 +42,7 @@ An AI platform for sales workflows such as buying-signal detection and lead scor
 
 **Apple:** SwiftUI · SwiftData · MapKit · MVVM
 
-**Tools:** Git · GitHub Actions · Claude Code · Cursor · Vitest · JUnit · Visual Studio · Xcode · Linux · Agile/Scrum
+**Tools:** Git · GitHub Actions · Claude Code · Cursor · JUnit · Visual Studio · Xcode · Linux · Agile/Scrum
 
 ---
 
