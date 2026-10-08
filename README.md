@@ -1,9 +1,11 @@
 # Hi, I'm Shadi 👋
 
-**Software Engineering senior** building across the stack — from .NET services and AI-powered web products, to native iOS apps, to Linux kernel modules and compilers.
+**Software Engineering senior** building across the stack, from .NET services and AI-powered web products to native iOS apps, Linux kernel modules, and compilers.
 
-- 🟣 **Main focus: C# and .NET** — WCF and REST services, ASP.NET (Web Forms & MVC), and cross-platform mobile with .NET MAUI
 - 🤖 Shipping AI-powered SaaS features in TypeScript with LLMs (Claude), on startup-sponsored projects
+- 🟣 **C# and .NET (main focus):** WCF and REST services, ASP.NET (Web Forms & MVC), and cross-platform mobile with .NET MAUI
+- 🌐 Full-stack web development with Next.js, React, TypeScript, and JavaScript
+- 🐍 Python for data analysis, machine learning, and scripting
 - 📱 Native iOS development with Swift, SwiftUI, and SwiftData
 - ⚙️ Systems and language tooling in C and C++
 - 🔐 Interested in data privacy and fair, responsible machine learning
@@ -12,14 +14,14 @@
 
 ## 💼 Industry-Sponsored Projects
 
-### GetDeals.ai — AI-Powered LinkedIn Outreach Platform
+### GetDeals.ai: AI-Powered LinkedIn Outreach Platform
 *Team of 3 · 2026 · Live in production*
 
 A SaaS platform that automates personalized LinkedIn outreach campaigns with AI-generated messaging.
 - **Tech:** Next.js, TypeScript, Supabase (PostgreSQL), Stripe, Vercel, Claude API
 - **What I built:** campaign controls (pause/resume/end, status badges, LinkedIn tier picker, messages page), Stripe billing portal integration, the registration flow and tier-aware dashboard, and settings persisted to Supabase. I also ran end-to-end QA across every subscription tier.
 
-### Zevari AI — AI Go-To-Market Platform
+### Zevari AI: AI Go-To-Market Platform
 *Team of 3 · Sept 2026 – present · Production*
 
 An AI platform for sales workflows such as buying-signal detection and lead scoring.
@@ -30,7 +32,7 @@ An AI platform for sales workflows such as buying-signal detection and lead scor
 
 ## 🛠️ Skills
 
-**Languages:** C# · TypeScript · Swift · C · C++ · Python · Java · XML/XSD
+**Languages:** C# · TypeScript · JavaScript · Swift · C · C++ · Python · Java · XML/XSD
 
 **.NET:** .NET / .NET Framework · ASP.NET Web Forms · ASP.NET MVC · WCF (SOAP & RESTful) · .NET MAUI · Windows Forms · Windows Workflow Foundation
 
@@ -59,7 +61,7 @@ A collection of distributed applications built on the Microsoft stack: reusable 
   - An XML data service for a national-parks dataset with XSD validation and XPath keyword search
   - A WCF chat client/service and a Windows Workflow Foundation activity library
 
-### 📱 Japan Travel Planner — iOS App *(partner project)*
+### 📱 Japan Travel Planner: iOS App *(partner project)*
 A SwiftUI app for planning trips to Japan: discover trending places on a map, save favorites, and organize day-by-day itineraries with notes.
 - **Tech:** Swift, SwiftUI, SwiftData, MapKit, Swift Charts, Combine, URLSession/JSON, Geoapify Places API, XCTest
 - **What I built:** a map-based place browser with mini-map previews, saved places and trip itineraries persisted with SwiftData, a trends view built with Swift Charts, and API integration that decodes place details (address, hours, website, rating), all using the MVVM pattern.
